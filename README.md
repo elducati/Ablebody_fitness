@@ -1,0 +1,1 @@
+This is a simple html-js-css site which i developed on a netbeans platform. It can run on Cpanel sites but not on sites that require frameworks like Heroku, so I added an index.php file to trick heroku into believing that it's a php site. It now runs perfectly fine on Heroku.
